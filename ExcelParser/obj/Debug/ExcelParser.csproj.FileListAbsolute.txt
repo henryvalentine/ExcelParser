@@ -1,0 +1,25 @@
+C:\Users\abum\Documents\Visual Studio 2017\Projects\ExcelParser\ExcelParser\bin\Debug\ExcelParser.exe.config
+C:\Users\abum\Documents\Visual Studio 2017\Projects\ExcelParser\ExcelParser\bin\Debug\ExcelParser.exe
+C:\Users\abum\Documents\Visual Studio 2017\Projects\ExcelParser\ExcelParser\bin\Debug\ExcelParser.pdb
+C:\Users\abum\Documents\Visual Studio 2017\Projects\ExcelParser\ExcelParser\bin\Debug\EPPlus.dll
+C:\Users\abum\Documents\Visual Studio 2017\Projects\ExcelParser\ExcelParser\bin\Debug\EPPlus.xml
+C:\Users\abum\Documents\Visual Studio 2017\Projects\ExcelParser\ExcelParser\obj\Debug\ExcelParser.Form1.resources
+C:\Users\abum\Documents\Visual Studio 2017\Projects\ExcelParser\ExcelParser\obj\Debug\ExcelParser.Properties.Resources.resources
+C:\Users\abum\Documents\Visual Studio 2017\Projects\ExcelParser\ExcelParser\obj\Debug\ExcelParser.csproj.GenerateResource.Cache
+C:\Users\abum\Documents\Visual Studio 2017\Projects\ExcelParser\ExcelParser\obj\Debug\ExcelParser.csproj.CoreCompileInputs.cache
+C:\Users\abum\Documents\Visual Studio 2017\Projects\ExcelParser\ExcelParser\obj\Debug\ExcelParser.exe
+C:\Users\abum\Documents\Visual Studio 2017\Projects\ExcelParser\ExcelParser\obj\Debug\ExcelParser.pdb
+C:\Users\abum\Documents\Visual Studio 2017\Projects\ExcelParser\ExcelParser\obj\Debug\ExcelParser.csprojResolveAssemblyReference.cache
+C:\Users\Henry\Documents\Workstation\C#\ExcelParser\ExcelParser\bin\Debug\ExcelParser.exe.config
+C:\Users\Henry\Documents\Workstation\C#\ExcelParser\ExcelParser\bin\Debug\ExcelParser.exe
+C:\Users\Henry\Documents\Workstation\C#\ExcelParser\ExcelParser\bin\Debug\ExcelParser.pdb
+C:\Users\Henry\Documents\Workstation\C#\ExcelParser\ExcelParser\bin\Debug\EPPlus.dll
+C:\Users\Henry\Documents\Workstation\C#\ExcelParser\ExcelParser\bin\Debug\EPPlus.xml
+C:\Users\Henry\Documents\Workstation\C#\ExcelParser\ExcelParser\obj\Debug\ExcelParser.csprojResolveAssemblyReference.cache
+C:\Users\Henry\Documents\Workstation\C#\ExcelParser\ExcelParser\obj\Debug\ExcelParser.Form1.resources
+C:\Users\Henry\Documents\Workstation\C#\ExcelParser\ExcelParser\obj\Debug\ExcelParser.Properties.Resources.resources
+C:\Users\Henry\Documents\Workstation\C#\ExcelParser\ExcelParser\obj\Debug\ExcelParser.csproj.GenerateResource.cache
+C:\Users\Henry\Documents\Workstation\C#\ExcelParser\ExcelParser\obj\Debug\ExcelParser.csproj.CoreCompileInputs.cache
+C:\Users\Henry\Documents\Workstation\C#\ExcelParser\ExcelParser\obj\Debug\ExcelParser.csproj.CopyComplete
+C:\Users\Henry\Documents\Workstation\C#\ExcelParser\ExcelParser\obj\Debug\ExcelParser.exe
+C:\Users\Henry\Documents\Workstation\C#\ExcelParser\ExcelParser\obj\Debug\ExcelParser.pdb
